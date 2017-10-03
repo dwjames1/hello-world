@@ -1,2 +1,2 @@
 # hello-world
-A quick excersize
+A quick exercise
